@@ -1,0 +1,12 @@
+{
+    "HOME": {
+        "title": "Ionic 4 Multi Language Translation",
+        "text": "This is random text to show translation in application"
+    },
+    "TABS_PAGE": {
+        "TAB1": "Schedule",
+        "TAB2": "Speakers",
+        "TAB3": "Map",
+        "TAB4": "About"
+    }
+}
